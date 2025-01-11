@@ -5,9 +5,6 @@
   "repository": {
     "url": "git+https://github.com/fi4f/v.git"
   },
-  "publishConfig": {
-    "@fi4f:registry": "https://npm.pkg.github.com"
-  },
   "main": "out/index.js",
   "types": "out/index.d.ts",
   "scripts": {
