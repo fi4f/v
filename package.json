@@ -1,12 +1,12 @@
 {
   "name": "@fi4f/v",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "repository": {
     "url": "git+https://github.com/fi4f/v.git"
   },
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
