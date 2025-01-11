@@ -3,7 +3,7 @@
   "version": "1.0.8",
   "description": "",
   "repository": {
-    "url": "https://github.com/fi4f/v"
+    "url": "git+https://github.com/fi4f/v.git"
   },
   "publishConfig": {
     "@fi4f:registry": "https://npm.pkg.github.com"
