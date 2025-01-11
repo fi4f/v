@@ -1,0 +1,19 @@
+{
+  "name": "@fi4f/v",
+  "version": "1.0.6",
+  "description": "",
+  "repository": {
+    "url": "https://github.com/fi4f/v"
+  },
+  "main": "out/index.js",
+  "types": "out/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
