@@ -26,9 +26,9 @@ export const Version = {
 
   compare(a: Version, b: Version) {
     let k: number;
-    if((k = a.major - b.major) != 0) return k;
-    if((k = a.minor - b.minor) != 0) return k;
-    if((k = a.patch - b.patch) != 0) return k;
+    if((k = a.major - b.major) !== 0) return k;
+    if((k = a.minor - b.minor) !== 0) return k;
+    if((k = a.patch - b.patch) !== 0) return k;
     return 0;
   }
 }
