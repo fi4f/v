@@ -1,4 +1,4 @@
-export interface Version {
+export type Version = {
   readonly moniker: string;
   readonly major  : number;
   readonly minor  : number;
@@ -32,5 +32,3 @@ export const Version = {
     return 0;
   }
 }
-
-export default Version;
